@@ -1,0 +1,500 @@
+   10  ls
+   11  cd ROR/
+   12  ls
+   13  cd myblog/
+   14  ls
+   15  rails s
+   16  rake routes
+   17  rails s
+   18  rails s
+   19  rails s
+   20  rake routes
+   21  ls
+   22  cd Documents/
+   23  ls
+   24  cd ROR/
+   25  ls
+   26  cd myblog
+   27  ls
+   28  rails s
+   29  rails s
+   30  cd ..
+   31  ls
+   32  cd mysite
+   33  rails s
+   34  gem install font-awesome-rails
+   35  rails s
+   36  bundle install
+   37  rails s
+   38  history > history24aug.txt
+   39  rake routes
+   40  cd ..
+   41  ls
+   42  cd mysite
+   43  ls
+   44  gem install font-awesome-rails
+   45  bundle install
+   46  gem install font-awesome-rails
+   47  bundle install
+   48  rails s
+   49  rails s
+   50  rails s
+   51  cd ..
+   52  ls
+   53  cd myblog
+   54  ls
+   55  cd ..
+   56  ls
+   57  cd myblog/
+   58  ls
+   59  rails s
+   60  cd ..
+   61  cd mysite/
+   62  rails s
+   63  cd ..
+   64  cd myblog/
+   65  rails s
+   66  bundle install
+   67  rails g migration add_picture_to_posts picture:string
+   68  rails g Uploader Image
+   69  rails g uploader Image
+   70  rake db:migrate
+   71  history
+   72  rails s
+   73  rails s
+   74  ls
+   75  cd ..
+   76  ls
+   77  cd rails portfolio
+   78  cd rails-portfolio/
+   79  ruby -v
+   80  cd ..
+   81  ls
+   82  cd myblog
+   83  ls
+   84  rails s
+   85  rails s
+   86  rails s
+   87  exit
+   88  history
+   89  ruby --v
+   90  ruby --version
+   91  cd Documents/
+   92  cd ROR/
+   93  cd rails-portfolio/
+   94  ruby --v
+   95  ruby --version
+   96  cd ..
+   97  cd rails-portfolio/
+   98  ruby version
+   99  ruby -v
+  100  cd ..
+  101  ls
+  102  cd myportfolio/
+  103  ls
+  104  rails s
+  105  cd ..
+  106  ls
+  107  cd ..
+  108  cd Documents/
+  109  cd ROR/
+  110  ls
+  111  cd mypage/
+  112  ls
+  113  rails s
+  114  rails server
+  115  ls
+  116  rail s
+  117  cd ..
+  118  ls
+  119  cd mypage/
+  120  rails s
+  121  rails s
+  122  git remote add origin https://github.com/Tynnee/mypage.git
+  123  echo "# mypage" >> README.md
+  124  git init
+  125  git add README.md
+  126  git commit -m "first commit"
+  127  git remote add origin https://github.com/Tynnee/mypage.git
+  128  git push -u origin master
+  129  git push -u origin master
+  130  ls
+  131  cd Documents/
+  132  ls
+  133  cd ROR/
+  134  ls
+  135  cd mypage/
+  136  echo "# mypage"
+  137  git init
+  138  git commit -m "first commit"
+  139  git remote add origin https://github.com/Tynnee/mypage.git
+  140  git push -u origin master
+  141  rails merfe
+  142  git merge
+  143  git remote add origin https://github.com/Tynnee/mypage.git
+  144  git init
+  145  git remote add origin https://github.com/Tynnee/mypage.git
+  146  git commit -m "first commit"
+  147  git remote add origin https://github.com/Tynnee/mypage.git
+  148  git push -u origin master
+  149  cd Documents/
+  150  ls
+  151  cd ROR/
+  152  ls
+  153  cd mypage
+  154  rails s
+  155  git init
+  156  git add .
+  157  git commit -m "first few changes"
+  158  git push -u origin master
+  159  rails s
+  160  git add .
+  161  git commit -m "ohne js am Ende"
+  162  git push -u origin master
+  163  rails s
+  164  bundle install
+  165  git add .
+  166  rails commit -m "added rails12factor gem for heroku assets"
+  167  git push -u origin master
+  168  git push -u origin master
+  169  bundle install
+  170  git add .
+  171  rails commit -m "added rails12factor gem for heroku assets"
+  172  git push -u origin master
+  173  git add .
+  174  rails commit -m "added rails12factor gems"
+  175  git push -u origin master
+  176  rails s
+  177  rails s
+  178  cd ..
+  179  ls
+  180  cd ..
+  181  cd Documents/
+  182  ls
+  183  cd ROR/
+  184  ls
+  185  rails new bydajob
+  186  rails new bydayjob
+  187  cd bydayjob/
+  188  rails s
+  189  cd Documents/
+  190  cd ROR/
+  191  cd mypage/
+  192  git init
+  193  git add .
+  194  git commit -m "rails12factor gem install"
+  195  git push -u origin master
+  196  git init
+  197  git add .
+  198  git commit -m " add serve static assets to applocation.rb in config file"
+  199  git push -u origin master
+  200  rails -v
+  201  bundle install
+  202  git init
+  203  git add .
+  204  git commit -u "asset fix"
+  205  git commit -m "asset fix"
+  206  git push -u origin master
+  207  git init
+  208  git add .
+  209  git init
+  210  git add .
+  211  git commit -m "assets"
+  212  git push -u origin master
+  213  CD ..
+  214  cd ..
+  215  rails new bydayjob
+  216  cd bydayjob
+  217  git init
+  218  git add .
+  219  git commit -m "initial commit"
+  220  rails g model job title:string description:text company:string url:string
+  221  rake db:migrate
+  222  rails g controller jobs
+  223  bundle exec rake db:rollback 
+  224  rails destroy model job
+  225  rails new mode jobs title:string description:text company:string url:string
+  226  cd ..
+  227  ls
+  228  cd bydayjob/
+  229  rails g model job title:string description:text company:string url:string
+  230  rake db:migrate
+  231  rails g controller jobs
+  232  rails g controller jobs
+  233  cd Documents/
+  234  cd ROR/
+  235  ls
+  236  rails new bydayjob
+  237  cd bydayjob/
+  238  rails g model job title:string description:text company:string url:string
+  239  rails g controller jobs
+  240  rails db:migrate
+  241  bundle install
+  242  rails generate simple_form:install --bootstrap
+  243  rails generate simple_form:install
+  244  rails generate simple_form:install --bootstrap
+  245  bundle install
+  246  rails generate simple_form:install --bootstrap
+  247  rails g  simple_form:install --bootstrap
+  248  bundle install
+  249  rails s
+  250  rails s
+  251  gems
+  252  rails gems
+  253  bunfle install
+  254  bundle install
+  255  gem install simple_form
+  256  bundle install
+  257  rails generate simple_form:install --bootstrap
+  258  bundle install
+  259  bundle install
+  260  rails s
+  261  rails s
+  262  rails s
+  263  cd Documents/
+  264  ls
+  265  cd ROR/
+  266  ls
+  267  cd bydayjob/
+  268  bundle install
+  269  rails generate simple_form:install --bootstrap
+  270  gem install haml
+  271  rails destroy controller jobs
+  272  rails g controller jobs index
+  273  rails s
+  274  cd Documents/
+  275  cd ROR/
+  276  cd bydayjob/
+  277  rails s
+  278  rails destroy controller jobs
+  279  rails g controller jobs
+  280  rails s
+  281  bundle install
+  282  cd Documents/
+  283  cd ROR/
+  284  cd bydayjob/
+  285  ls
+  286  rails s
+  287  rails s
+  288  cd ..
+  289  rails new bydayjob
+  290  cd bydayjob
+  291  rails s
+  292  rails s
+  293  rails s
+  294  cd ..
+  295  ls
+  296  cd bydayjob/
+  297  ls
+  298  rails s
+  299  bundle install
+  300  rails s
+  301  rails s
+  302  bundle install
+  303  bundle install
+  304  gem install haml
+  305  bundle install
+  306  bundle install
+  307  rails generate simple_form:install --bootstrap
+  308  bundle install
+  309  bundle install
+  310  rails generate simple_form:install --bootstrap
+  311  rails s
+  312  rails g scaffold job title:string description:text company:string url:string
+  313  rake db:migrate
+  314  cd Do
+  315  cd Documents/
+  316  ls
+  317  cd ROR/
+  318  cd bydayjob/
+  319  ls
+  320  rails s
+  321  cd ..
+  322  cd mypage/
+  323  rails s
+  324  git init
+  325  git add .
+  326  git commit -m "add animated headlines from codyhouse"
+  327  git push -u origin master
+  328  rails s
+  329  git init
+  330  git add .
+  331  git commit -m "remove footer"
+  332  git push -u origin master
+  333  rails s
+  334  git init
+  335  git add .
+  336  git commit -m "fixed cd-intro  on headlinesr"
+  337  git push -u origin master
+  338  rails s
+  339  rails s
+  340  git init
+  341  git add .
+  342  git commit -m "header background"
+  343  git push -u origin master
+  344  rails s
+  345  ls
+  346  cd Documents/
+  347  cd ROR/
+  348  git clone git://github.com/sharetribe/sharetribe.git
+  349  cd sharetribe/
+  350  bundle install
+  351  brew tap homebrew/versions
+  352  npm install
+  353  cp config/config.example.yml config/config.yml
+  354  bundle exec rake db:create
+  355  bundle exec rake db:schema:load
+  356  bundle exec rake ts:index
+  357  bundle exec rake ts:start
+  358  foreman start -f Procfile.static
+  359  foreman start -f Procfile.hot
+  360  foreman start -f Procfile.client-static
+  361  foreman start -f Procfile.client-hot
+  362  bundle exec rake jobs:work
+  363  gem install mailcatcher
+  364  mailcatcher
+  365  rails s
+  366  rails s
+  367  cd Documents/
+  368  cd ROR/
+  369  cd mypage/
+  370  rails s
+  371  cd Documents/
+  372  cd ROR/
+  373  cd andras_site/
+  374  cd Documents/
+  375  cd ROR/
+  376  cd myblog/
+  377  rails s
+  378  echo "# myblog"
+  379  git init
+  380  git commit -m "first commit"
+  381  git remote add origin https://github.com/Tynnee/myblog.git
+  382  git push -u origin master
+  383  echo "# myblog"
+  384  git init
+  385  git commit -m "first commit"
+  386  git push -u origin master
+  387  git init
+  388  git commit -m "first commit"
+  389  git remote add origin https://github.com/Tynnee/myblog.git
+  390  git init
+  391  git add .
+  392  git commit -m "first commit"
+  393  git push -u origin master
+  394  git init
+  395  git add .
+  396  git commit -m "first commit"
+  397  git push -u origin master
+  398  rails s
+  399  git init
+  400  git add .
+  401  git commit -m "navi fixed, show page too"
+  402  git push -u origin master
+  403  rails s
+  404  rails s
+  405  cd ..
+  406  cd mypage/
+  407  rails s
+  408  rails s
+  409  cd ..
+  410  cd myblog/
+  411  rails s
+  412  cd ..
+  413  cd mypage/
+  414  rails s
+  415  rails s
+  416  cd ..
+  417  cd myblog/
+  418  rails s
+  419  git init
+  420  git add .
+  421  git commit -m "edit in container"
+  422  git push -uorigin maste
+  423  rails s
+  424  bundle install
+  425  rails s
+  426  rails s
+  427  bundle install
+  428  rails s
+  429  bundle install
+  430  bundle install
+  431  bundle install
+  432  rails s
+  433  cd ..
+  434  ls
+  435  cd ..
+  436  ls
+  437  cd RefugeesOnRails/
+  438  git merge
+  439  nig pull
+  440  git pull
+  441  git merge
+  442  git init
+  443  git pull
+  444  ls
+  445  ls
+  446  cd ..
+  447  ls
+  448  cd ROR/
+  449  cd myblog/
+  450  rails s
+  451  cd ..
+  452  cd mypage/
+  453  rails s
+  454  cd ..
+  455  cd myblog/
+  456  rails s
+  457  rails s
+  458  rails s
+  459  cd ..
+  460  cd mypage/
+  461  rails s
+  462  cd ..
+  463  cd mypage/
+  464  rails s
+  465  cd Doc
+  466  cd ..
+  467  cd myblog/
+  468  rails s
+  469  cd Documents/
+  470  cd ROR/
+  471  cd myblog/
+  472  rails s
+  473  bundle install
+  474  rails generate simple_form:install --bootstrap
+  475  rails s
+  476  git init
+  477  git add .
+  478  git commit -m "wysiwyg trial"
+  479  git push -u origin master
+  480  cd ..
+  481  cd mypage/
+  482  rails s
+  483  git init
+  484  git add .
+  485  git commit -m ".css.scss to stylesheet"
+  486  git push -uorigin master
+  487  git add .
+  488  git push -uorigin master
+  489  git init
+  490  git add .
+  491  git commit -m "scss extend"
+  492  git push -uorigin master
+  493  git init
+  494  git add .
+  495  git commit -m “add to production rb config for assets"
+  496  git commit -m "add config to serve heroku assets prdctn rb"
+  497  ls
+  498  cd ..
+  499  ls
+  500  cd ..
+  501  cd ..
+  502  ls
+  503  cd Documents/
+  504  ls
+  505  cd ROR/
+  506  ls
+  507  cd mypage/
+  508  history
+  509  history > 2ndSep.txt
