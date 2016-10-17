@@ -38,7 +38,6 @@ gem 'owlcarousel-rails', '~> 1.1', '>= 1.1.3.3'
 
 gem "font-awesome-rails"
 
-gem 'twitter', '~> 5.16'
 
 
 
