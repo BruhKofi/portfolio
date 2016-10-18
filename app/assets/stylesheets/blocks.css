@@ -46,7 +46,7 @@
 }
 
 #header-1 .main-nav .navbar-nav > li a {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Source Sans Pro', Arial, Sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
 	font-size: 15px;
@@ -287,7 +287,7 @@
 
 #header-2 .main-nav .navbar-nav > li a
 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Source Sans Pro', Arial, Sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     font-size: 15px;
@@ -686,7 +686,7 @@ Version: 1.0
 	display: block;
 	margin-top: 34px;
 	margin-bottom: -6px;
-	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	font-family: 'Source Sans Pro', Arial, Sans-serif;
 	font-weight: 300;
 	font-size: 120px;
 	color: #ffffff;
@@ -694,7 +694,7 @@ Version: 1.0
 
 .promo-2 .countDown .digits-label {
 	margin-bottom: 18px;
-	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	font-family: 'Source Sans Pro', Arial, Sans-serif;
 	font-size: 24px;
 	text-transform: uppercase;
 	color: #ffffff;
@@ -1419,7 +1419,7 @@ Version: 1.0
     font-size: 44px;
     font-weight: 300;
     margin-bottom: 20px;
-    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-family: 'Source Sans Pro', Arial, Sans-serif;
     line-height: 1.1;
 }
 
@@ -1558,7 +1558,7 @@ Version: 1.0
 }
 
 .content-2-7 .counter, .content-2-7 .counter-text {
-	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	font-family: 'Source Sans Pro', Arial, Sans-serif;
 	font-weight: 700;
 	color: #f39c12;
 }

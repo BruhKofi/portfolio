@@ -84,10 +84,10 @@ body {
 }
 
 body {
-    font-family: "Lato";
+    font-family: 'Source Sans Pro', Arial, Sans-serif;
     font-weight: 300;
     font-size: 16px;
-    color: #555;
+    color: #5A5252;
 
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
@@ -159,7 +159,7 @@ a img {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
+    font-family: 'Source Sans Pro', Arial, Sans-serif;
     font-weight: 300;
     color: #333;
 }
@@ -177,7 +177,7 @@ p {
 
 .paragraph-lead {
     font-size: 20px;
-    color: #3498db;
+    color: #5A5252;
 }
 
 strong {
@@ -191,9 +191,9 @@ em {
 pre {
     background: #ebebeb;
     border: none;
-    font-family: "Monaco";
+    font-family: 'Source Sans Pro', Arial, Sans-serif;
     font-size: 16px;
-    color: #666;
+    color: #5A5252;
     padding: 20px;
     line-height: 28px;
 }
@@ -412,7 +412,7 @@ a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-	background-image: url(ghana1.jpg)
+	background-image: url(feet.jpg)
 }
 
 .divider2 {
@@ -467,7 +467,7 @@ a:after {
 }
 
 .service-active p {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Source Sans Pro', Arial, Sans-serif;
 	padding-top: 10px;
 }
 
