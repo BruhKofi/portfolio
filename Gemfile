@@ -44,6 +44,7 @@ gem 'meta-tags', '~> 2.3', '>= 2.3.1'
 
 gem 'google-analytics-rails', '~> 1.1'
 
+gem 'sitemap_generator', '~> 5.2'
 
 
 
