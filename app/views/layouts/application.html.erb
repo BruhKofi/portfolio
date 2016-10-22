@@ -1,14 +1,32 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <%= analytics_init if GoogleAnalytics.valid_tracker? %>
+  <% set_meta_tags og: {
+  title:    'Victor Asante-Kyei',
+  type:     'profile',
+  locale:     'en_US',
+  url:      'http://vasnte.com',
+  image:    'assets/terrace.jpg',
+  site_name: 'vasnte',
+  description: 'Official Homepage of Victor Asante-Kyei'
+} %>
+
+  <% set_meta_tags twitter: {
+  card: "Official Homepage | Victor Asante-Kyei",
+  site: "@Bruh_Kofi"
+} %>
+
   <% title 'Official Website | Victor Asante-Kyei' %>
 	<% description 'This is the Official page of Victor Asante-Kyei, Web Developer, IT Project Consultant' %>
 	<% keywords 'Front End Development, Victor Asante-Kyei, Berlin, SEO, Digital Marketing, IT Projectmanagement' %>
 	<% nofollow %>
 	<% noindex %>
-	<% refresh 60 %>
+	<% refresh 300 %>
     <%= csrf_meta_tags %>
     <%= display_meta_tags %>
+
+
 
     
 

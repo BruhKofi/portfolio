@@ -42,6 +42,8 @@ gem 'wow-rails', '~> 0.0.1'
 
 gem 'meta-tags', '~> 2.3', '>= 2.3.1'
 
+gem 'google-analytics-rails', '~> 1.1'
+
 
 
 
