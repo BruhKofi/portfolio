@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<div class="container-fluid"></div>
   <head>
   <%= analytics_init if GoogleAnalytics.valid_tracker? %>
   <% set_meta_tags og: {
@@ -37,4 +38,5 @@
   <body>
     <%= yield %>
   </body>
+  </div>
 </html>
