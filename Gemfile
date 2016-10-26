@@ -38,7 +38,7 @@ gem 'owlcarousel-rails', '~> 1.1', '>= 1.1.3.3'
 
 gem 'font-awesome-rails', '~> 4.6', '>= 4.6.3.1'
 
-gem 'wow-rails', '~> 0.0.1'
+gem 'wow-rails'
 
 gem 'meta-tags', '~> 2.3', '>= 2.3.1'
 

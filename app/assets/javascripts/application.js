@@ -12,6 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
 //= require wow
+//= require turbolinks
 //= require_tree .
